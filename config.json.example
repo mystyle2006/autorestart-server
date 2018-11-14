@@ -1,0 +1,12 @@
+{
+  "SLACK_URL": "https://hooks.slack.com/services/",
+  "SLACK_CHANNEL": "#alert",
+  "PRIVATE_KEY_PATH": "/home/user/private_key.pem",
+  "HOST": "",
+  "USERNAME": "",
+  "RESTART_COMMAND": "pm2 reload 0",
+  "TEST_URL": "",
+  "TIMEOUT_MS": 10000,
+  "INTERVAL_MS": 10000,
+  "MAX_RETRY_COUNT": 3
+}
